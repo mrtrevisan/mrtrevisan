@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </head>
 
 <div align="center">
-  <h3>Hi there 👋</h3>
+  <h3>Hi there! 👋</h3>
   <hr/>
   
   <h4>Here are the Languages I know / I'm learning: </h4>
@@ -54,15 +54,15 @@ Here are some ideas to get you started:
 <div align="center">
   <h3> 🔥 My stats: </h3>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=mrtrevisan&show_icons=true&theme=transparent" style="display:block; margin: 0 auto;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mrtrevisan&show_icons=true&theme=transparent"/><br/><br/>
   </div>
   <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=mrtrevisan&theme=transparent&mode=weekly" style="display:block; margin: 0 auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtrevisan&layout=compact&theme=transparent"/><br/><br/>
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtrevisan&layout=compact&theme=transparent" style="display:block; margin: 0 auto;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=mrtrevisan&theme=transparent&mode=weekly"/><br/><br/>
   </div>
   <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=mrtrevisan&no-bg=true&column=4&margin-w=10&margin-h=10"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=mrtrevisan&no-bg=true&column=4&margin-w=10&margin-h=10"/><br/><br/>
   </div>
 </div>
