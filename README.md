@@ -60,6 +60,6 @@ Here are some ideas to get you started:
     <img src="https://github-readme-streak-stats.herokuapp.com?user=mrtrevisan&theme=transparent&mode=weekly" style="display:block; margin: 0 auto;" />
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent" style="display:block; margin: 0 auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtrevisan&layout=compact&theme=transparent" style="display:block; margin: 0 auto;" />
   </div>
 </div>
