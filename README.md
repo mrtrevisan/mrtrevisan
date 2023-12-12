@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   
   <h4>Here are the Languages I know / I'm learning: </h4>
   
-  <div align="center">
+  <div align="center" style="display: flex; flex-direction: row">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,js,ts,html,css,bash"/><br/>
   </div>  
   
@@ -33,8 +33,8 @@ Here are some ideas to get you started:
   
  <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,git,docker,kubernetes,postgres,nodejs"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height=40 width=40 style="background-color: rgb(36,41,56); padding: 4px; margin: 0 2px; border-radius: 11px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height=38 width=38 style="background-color: rgb(36,41,56); padding: 5px; margin: 0 2px; border-radius: 11px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height=45 width=45/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height=45 width=45/>
   </div>
   
   <hr/>
@@ -55,4 +55,3 @@ Here are some ideas to get you started:
     <img src="https://github-profile-trophy.vercel.app/?username=mrtrevisan&column=4&margin-w=10&margin-h=10&theme=monokai"/><br/><br/>
   </div>
 </div>
-<hr/>
