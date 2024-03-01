@@ -24,7 +24,8 @@ Here are some ideas to get you started:
   <h4>Here are the Languages I know / I'm learning: </h4>
   
   <div align="center" style="display: flex; flex-direction: row">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,js,ts,html,css,bash"/><br/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,js,ts,html,css,bash"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height=48 width=48/><br/>
   </div>  
   
   <hr/>
@@ -32,10 +33,13 @@ Here are some ideas to get you started:
   <h4>Here are the Tools I know / I'm learning: </h4> 
   
  <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,git,docker,kubernetes,postgres,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=vscode,git,docker,kubernetes,nodejs,postgres"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height=45 width=45/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height=45 width=45/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height=45 width=45/>
-  </div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" height=45 width=45/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height=40 width=40/>
+</div>
   
   <hr/>
 </div>
