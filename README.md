@@ -23,11 +23,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width: 60px; height: auto;"/>
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="width: 70px; height: auto;"/>
+    &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" style="width: 60px; height: auto;"/>
   </div>  
   
   <br/>
   <hr/>
-  <h4>Opeating Systems: </h4> 
+<!--   <h4>Opeating Systems: </h4> 
 
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" style="width: 65px; height: auto;"/>
@@ -37,7 +39,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" style="width: 65px; height: auto;"/>
   </div>
   <br/>
-  <hr/>
+  <hr/> -->
   
   <h4>Development Tools: </h4> 
   
@@ -48,13 +50,13 @@
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" style="width: 65px; height: auto;"/>
     &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" style="width: 60px; height: auto;"/>
-    &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="width: 60px; height: auto;"/>
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" style="width: 60px; height: auto;"/>
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" style="width: 60px; height: auto;"/>
+    &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" style="width: 55px; height: auto;"/>
   </div>
 
 <br/>
