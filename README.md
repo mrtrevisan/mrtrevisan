@@ -7,10 +7,10 @@
 </head>
 
 <div align="center">
-  <h3>Hi there! 👋</h3>
+  <h3>Hello there! 👋</h3>
   <hr/>
   
-  <h4>Here are the Languages I know: </h4>
+  <h4>Low and High Level Programming Languages: </h4>
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="width: 65px; height: auto;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="width: 65px; height: auto;"/>
@@ -29,17 +29,6 @@
   
   <br/>
   <hr/>
-<!--   <h4>Opeating Systems: </h4> 
-
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" style="width: 65px; height: auto;"/>
-    &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="width: 65px; height: auto;"/>
-    &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" style="width: 65px; height: auto;"/>
-  </div>
-  <br/>
-  <hr/> -->
   
   <h4>Development Tools: </h4> 
   
@@ -61,7 +50,7 @@
 
 <br/>
 <hr/>
-<h4>Database Technologies: </h4> 
+<h4>Relational and Non-relational Database Technologies: </h4> 
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="width: 80px; height: auto;"/>
