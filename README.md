@@ -8,6 +8,7 @@
 
 <div align="center">
   <h3>Hello there! 👋</h3>
+  <p>I'm a Backend Developer! Check my skills:</p>
   <hr/>
   
   <h4>Low and High Level Programming Languages: </h4>
