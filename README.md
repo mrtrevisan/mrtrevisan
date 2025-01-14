@@ -64,7 +64,6 @@
 <hr/>
 
 <div align="center">
-  <h3> 🔥 My stats: </h3>
+  <h3> 🔥 My most used languages: </h3>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtrevisan&layout=compact&theme=monokai"/><br/><br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=mrtrevisan&rank=SECRET,S,AAA,AA,A,B,C&column=-1&margin-w=10&margin-h=10&theme=monokai"/><br/><br/>
 </div>
