@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>Hello there! 👋</h3>
-  <p>I'm a Backend Developer! Check my skills:</p>
+  <p>I'm a Fullstack Developer! Check my skills:</p>
   <hr/>
   
   <h4>Low and High Level Programming Languages: </h4>
@@ -59,11 +59,4 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" style="width: 80px; height: auto;"/>
     &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" style="width: 80px; height: auto;"/>
-</div>
-
-<hr/>
-
-<div align="center">
-  <h3> 🔥 My most used languages: </h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtrevisan&layout=compact&theme=monokai"/><br/><br/>
 </div>
