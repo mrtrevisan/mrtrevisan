@@ -31,31 +31,24 @@
   <sub>TypeScript · JavaScript · PHP 8</sub>
 </p>
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center" valign="top">
-      <b>Backend</b>
-      <br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" title="Node.js" alt="Node.js"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="48" title="Swagger / OpenAPI" alt="Swagger"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="48" title="RabbitMQ" alt="RabbitMQ"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="48" title="Redis" alt="Redis"/>
-      <br/>
-      <sub>Express · Restify · Prisma · Pino · Monolog · Phinx · JWT</sub>
-    </td>
-    <td align="center" valign="top">
-      <b>Frontend</b>
-      <br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" title="React" alt="React"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="48" title="Vite" alt="Vite"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" title="Tailwind CSS" alt="Tailwind CSS"/>
-      <br/>
-      <sub>React · Vite · Tailwind CSS</sub>
-    </td>
-  </tr>
-</table>
-</div>
+<p align="center"><b>Backend</b></p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" title="Node.js" alt="Node.js"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="48" title="Swagger / OpenAPI" alt="Swagger"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="48" title="RabbitMQ" alt="RabbitMQ"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="48" title="Redis" alt="Redis"/>
+  <br/>
+  <sub>Express · Restify · Prisma · Pino · Monolog · Phinx · JWT</sub>
+</p>
+
+<p align="center"><b>Frontend</b></p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" title="React" alt="React"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="48" title="Vite" alt="Vite"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" title="Tailwind CSS" alt="Tailwind CSS"/>
+  <br/>
+  <sub>React · Vite · Tailwind CSS</sub>
+</p>
 
 <p align="center"><b>Cloud, DevOps &amp; Observability</b></p>
 <p align="center">
@@ -84,33 +77,26 @@
   <sub>MySQL · MariaDB · PostgreSQL · Firebird · MongoDB · Redis</sub>
 </p>
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center" valign="top">
-      <b>Testing</b>
-      <br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width="48" title="Vitest" alt="Vitest"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="48" title="Jest" alt="Jest"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="48" title="Playwright" alt="Playwright"/>
-      <br/>
-      <sub>Vitest · Jest · Supertest · Playwright (E2E)</sub>
-    </td>
-    <td align="center" valign="top">
-      <b>Tooling</b>
-      <br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" title="Git" alt="Git"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" width="48" title="pnpm" alt="pnpm"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" title="VS Code" alt="VS Code"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="48" title="DBeaver" alt="DBeaver"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="48" title="Insomnia" alt="Insomnia"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="48" title="Bash" alt="Bash"/>
-      <br/>
-      <sub>pnpm · Turborepo · Yarn · ESLint · Prettier · esbuild · Bash</sub>
-    </td>
-  </tr>
-</table>
-</div>
+<p align="center"><b>Testing</b></p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width="48" title="Vitest" alt="Vitest"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="48" title="Jest" alt="Jest"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="48" title="Playwright" alt="Playwright"/>
+  <br/>
+  <sub>Vitest · Jest · Supertest · Playwright (E2E)</sub>
+</p>
+
+<p align="center"><b>Tooling</b></p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" title="Git" alt="Git"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" width="48" title="pnpm" alt="pnpm"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" title="VS Code" alt="VS Code"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="48" title="DBeaver" alt="DBeaver"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="48" title="Insomnia" alt="Insomnia"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="48" title="Bash" alt="Bash"/>
+  <br/>
+  <sub>pnpm · Turborepo · Yarn · ESLint · Prettier · esbuild · Bash</sub>
+</p>
 
 ---
 
