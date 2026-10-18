@@ -63,7 +63,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="48" title="Prometheus" alt="Prometheus"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="48" title="Grafana" alt="Grafana"/>
   <br/>
-  <sub>AWS Lambda · API Gateway · SAM · Cognito · Cloudflare · Docker Compose · mkcert · Azure Pipelines</sub>
+  <sub>AWS Lambda · API Gateway · SAM · Cognito · Cloudflare · Docker Compose · Squid (proxy) · mkcert · Azure Pipelines</sub>
 </p>
 
 <p align="center"><b>Databases</b></p>
@@ -93,9 +93,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" title="VS Code" alt="VS Code"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="48" title="DBeaver" alt="DBeaver"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="48" title="Insomnia" alt="Insomnia"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="48" title="Bash" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="48" title="Bash" alt="Bash"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/claude" width="48" title="Claude / Claude Code" alt="Claude"/>
   <br/>
-  <sub>pnpm · Turborepo · Yarn · ESLint · Prettier · esbuild · Bash</sub>
+  <sub>pnpm · Turborepo · Yarn · ESLint · Prettier · esbuild · Bash · Claude Code</sub>
 </p>
 
 ---
